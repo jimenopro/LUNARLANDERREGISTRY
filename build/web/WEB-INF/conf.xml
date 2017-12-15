@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<configuraciones>
+    <configuracion id="Configuracion 1">
+        <dificultad>1</dificultad>
+        <modeloNave>1</modeloNave>
+        <modeloLuna>1</modeloLuna>
+    </configuracion>
+    <configuracion id="Configuracion 2">
+        <dificultad>2</dificultad>
+        <modeloNave>2</modeloNave>
+        <modeloLuna>2</modeloLuna>
+    </configuracion>
+    <configuracion id="Configuracion 3">
+        <dificultad>3</dificultad>
+        <modeloNave>1</modeloNave>
+        <modeloLuna>2</modeloLuna>
+    </configuracion>
+</configuraciones>
